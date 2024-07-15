@@ -1,0 +1,1027 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Placemark id="3">
+            <name>ENAROTALI, INDONESIA</name>
+            <description>Percentile: 0.0068110611633292</description>
+            <Point id="2">
+                <coordinates>136.3666667,-3.9166667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5">
+            <name>MOUNT HAGEN, PAPUA NEW GUINEA</name>
+            <description>Percentile: 0.0136221223266584</description>
+            <Point id="4">
+                <coordinates>144.295861,-5.826789,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7">
+            <name>JOSE MARIA CORDOVA, COLOMBIA</name>
+            <description>Percentile: 0.0204331834899877</description>
+            <Point id="6">
+                <coordinates>-75.423119,6.164536,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9">
+            <name>ELDORET, KENYA</name>
+            <description>Percentile: 0.0272442446533169</description>
+            <Point id="8">
+                <coordinates>35.3,0.4833333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11">
+            <name>CAMERON HIGHLANDS, MALAYSIA</name>
+            <description>Percentile: 0.0340553058166462</description>
+            <Point id="10">
+                <coordinates>101.3666666,4.4666666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13">
+            <name>EL DORET INTERNATIONAL, KENYA</name>
+            <description>Percentile: 0.0408663669799754</description>
+            <Point id="12">
+                <coordinates>35.2388992,0.404458,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15">
+            <name>LICENCIADO Y GEN IGNACIO LOPEZ RAYON, MEXICO</name>
+            <description>Percentile: 0.0476774281433047</description>
+            <Point id="14">
+                <coordinates>-102.039056,19.396692,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="17">
+            <name>LA TOLA, ECUADOR</name>
+            <description>Percentile: 0.0544884893066339</description>
+            <Point id="16">
+                <coordinates>-78.3666666,-0.2166666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="19">
+            <name>INAQUITO, ECUADOR</name>
+            <description>Percentile: 0.0612995504699632</description>
+            <Point id="18">
+                <coordinates>-78.4833333,-0.1666666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21">
+            <name>SUMBAWANGA, TANZANIA</name>
+            <description>Percentile: 0.0681106116332924</description>
+            <Point id="20">
+                <coordinates>31.63,-7.9666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="23">
+            <name>RUTENG SATAR TACIK, INDONESIA</name>
+            <description>Percentile: 0.0749216727966217</description>
+            <Point id="22">
+                <coordinates>120.45,-8.6333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="25">
+            <name>MERU, KENYA</name>
+            <description>Percentile: 0.0817327339599509</description>
+            <Point id="24">
+                <coordinates>37.65,0.0833333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="27">
+            <name>BAGUIO, PHILIPPINES</name>
+            <description>Percentile: 0.0885437951232802</description>
+            <Point id="26">
+                <coordinates>120.619636,16.375103,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="29">
+            <name>CORONEL FAP ALFREDO MENDIVIL DUARTE, PERU</name>
+            <description>Percentile: 0.0953548562866094</description>
+            <Point id="28">
+                <coordinates>-74.204417,-13.154819,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="31">
+            <name>KISII, KENYA</name>
+            <description>Percentile: 0.1021659174499387</description>
+            <Point id="30">
+                <coordinates>34.7833333,-0.6666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="33">
+            <name>NAIROBI DAGORETTI, KENYA</name>
+            <description>Percentile: 0.1089769786132679</description>
+            <Point id="32">
+                <coordinates>36.75,-1.3,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="35">
+            <name>BOLE INTERNATIONAL, ETHIOPIA</name>
+            <description>Percentile: 0.1157880397765972</description>
+            <Point id="34">
+                <coordinates>38.799319,8.977889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="37">
+            <name>MARISCAL SUCRE INTERNATIONAL AIRPORT, ECUADOR</name>
+            <description>Percentile: 0.1225991009399264</description>
+            <Point id="36">
+                <coordinates>-78.3666666,-0.1166666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="39">
+            <name>LA ESPERANZA, HONDURAS</name>
+            <description>Percentile: 0.1294101621032557</description>
+            <Point id="38">
+                <coordinates>-88.1666667,14.3333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="41">
+            <name>LICENCIADO BENITO JUAREZ INTERNATIONAL, MEXICO</name>
+            <description>Percentile: 0.1362212232665849</description>
+            <Point id="40">
+                <coordinates>-99.072097,19.436303,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="43">
+            <name>HERMANOS SERDAN INTERNATIONAL, MEXICO</name>
+            <description>Percentile: 0.1430322844299142</description>
+            <Point id="42">
+                <coordinates>-98.371447,19.158144,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="45">
+            <name>SN. CRISTOBAL LAS CASAS CHIS., MEXICO</name>
+            <description>Percentile: 0.1498433455932434</description>
+            <Point id="44">
+                <coordinates>-92.6333333,16.75,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="47">
+            <name>MARISCAL LAMAR, ECUADOR</name>
+            <description>Percentile: 0.1566544067565727</description>
+            <Point id="46">
+                <coordinates>-78.984397,-2.889467,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="49">
+            <name>DHAMAR, YEMEN</name>
+            <description>Percentile: 0.1634654679199019</description>
+            <Point id="48">
+                <coordinates>44.4166666,14.5833333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="51">
+            <name>NAKURU, KENYA</name>
+            <description>Percentile: 0.1702765290832311</description>
+            <Point id="50">
+                <coordinates>36.1,-0.2666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="53">
+            <name>ANTONIO NARINO, COLOMBIA</name>
+            <description>Percentile: 0.1770875902465604</description>
+            <Point id="52">
+                <coordinates>-77.290822,1.392844,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55">
+            <name>MBEYA, TANZANIA</name>
+            <description>Percentile: 0.1838986514098896</description>
+            <Point id="54">
+                <coordinates>33.4666667,-8.9333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="57">
+            <name>NAROK, KENYA</name>
+            <description>Percentile: 0.1907097125732189</description>
+            <Point id="56">
+                <coordinates>35.8333333,-1.1333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59">
+            <name>NYERI, KENYA</name>
+            <description>Percentile: 0.1975207737365481</description>
+            <Point id="58">
+                <coordinates>36.9666667,-0.5,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="61">
+            <name>EMBU, KENYA</name>
+            <description>Percentile: 0.2043318348998774</description>
+            <Point id="60">
+                <coordinates>37.45,-0.5,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="63">
+            <name>GISENYI, RWANDA</name>
+            <description>Percentile: 0.2111428960632066</description>
+            <Point id="62">
+                <coordinates>29.258875,-1.677203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65">
+            <name>NAIROBI WILSON, KENYA</name>
+            <description>Percentile: 0.2179539572265359</description>
+            <Point id="64">
+                <coordinates>36.814833,-1.321719,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="67">
+            <name>TOLUCA MEX., MEXICO</name>
+            <description>Percentile: 0.2247650183898651</description>
+            <Point id="66">
+                <coordinates>-99.6833333,19.2833333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="69">
+            <name>PACHUCA HGO., MEXICO</name>
+            <description>Percentile: 0.2315760795531944</description>
+            <Point id="68">
+                <coordinates>-98.75,20.1333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="71">
+            <name>TLAXCALA TLAX., MEXICO</name>
+            <description>Percentile: 0.2383871407165236</description>
+            <Point id="70">
+                <coordinates>-98.25,19.3166666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="73">
+            <name>HUEHUETENANGO, GUATEMALA</name>
+            <description>Percentile: 0.2451982018798529</description>
+            <Point id="72">
+                <coordinates>-91.4666667,15.3166667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="75">
+            <name>NAIROBI EASTLEIGH, KENYA</name>
+            <description>Percentile: 0.2520092630431821</description>
+            <Point id="74">
+                <coordinates>36.862339,-1.277267,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="77">
+            <name>KITALE, KENYA</name>
+            <description>Percentile: 0.2588203242065114</description>
+            <Point id="76">
+                <coordinates>34.958556,0.971989,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="79">
+            <name>DIYATALAWA, SRI LANKA</name>
+            <description>Percentile: 0.2656313853698406</description>
+            <Point id="78">
+                <coordinates>80.9666666,6.8166666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="81">
+            <name>GEN FAP ARMANDO REVOREDO IGLESIAS, PERU</name>
+            <description>Percentile: 0.2724424465331699</description>
+            <Point id="80">
+                <coordinates>-78.4894,-7.139183,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="83">
+            <name>MEXICO CENTRAL D.F., MEXICO</name>
+            <description>Percentile: 0.2792535076964991</description>
+            <Point id="82">
+                <coordinates>-99.1833333,19.4,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="85">
+            <name>TAUNGGYI, BURMA</name>
+            <description>Percentile: 0.2860645688598284</description>
+            <Point id="84">
+                <coordinates>97.05,20.7833333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87">
+            <name>IBB, YEMEN</name>
+            <description>Percentile: 0.2928756300231576</description>
+            <Point id="86">
+                <coordinates>44.3333333,14.0,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="89">
+            <name>COMITAN CHIS., MEXICO</name>
+            <description>Percentile: 0.2996866911864869</description>
+            <Point id="88">
+                <coordinates>-92.1333333,16.25,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="91">
+            <name>LOJA LA ARGELIA, ECUADOR</name>
+            <description>Percentile: 0.3064977523498161</description>
+            <Point id="90">
+                <coordinates>-79.2,-4.0333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="93">
+            <name>KERICHO, KENYA</name>
+            <description>Percentile: 0.3133088135131454</description>
+            <Point id="92">
+                <coordinates>35.35,-0.3666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="95">
+            <name>NAIROBI JKIA, KENYA</name>
+            <description>Percentile: 0.3201198746764746</description>
+            <Point id="94">
+                <coordinates>36.927775,-1.319239,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="97">
+            <name>MARIA DA FE, BRAZIL</name>
+            <description>Percentile: 0.3269309358398038</description>
+            <Point id="96">
+                <coordinates>-45.3666666,-22.3166666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="99">
+            <name>DIAMANTINA, BRAZIL</name>
+            <description>Percentile: 0.3337419970031331</description>
+            <Point id="98">
+                <coordinates>-43.65,-18.2333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="101">
+            <name>HAJJAH, YEMEN</name>
+            <description>Percentile: 0.3405530581664623</description>
+            <Point id="100">
+                <coordinates>43.5833333,15.8333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="103">
+            <name>CALDAS, BRAZIL</name>
+            <description>Percentile: 0.3473641193297916</description>
+            <Point id="102">
+                <coordinates>-46.3833333,-21.9166666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="105">
+            <name>HAKHA, BURMA</name>
+            <description>Percentile: 0.3541751804931208</description>
+            <Point id="104">
+                <coordinates>93.6333333,22.65,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="107">
+            <name>WAMENA, INDONESIA</name>
+            <description>Percentile: 0.3609862416564501</description>
+            <Point id="106">
+                <coordinates>138.957372,-4.102511,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="109">
+            <name>KAMEMBE, RWANDA</name>
+            <description>Percentile: 0.3677973028197793</description>
+            <Point id="108">
+                <coordinates>28.9166666,-2.4666666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="111">
+            <name>FUNCHAL, PORTUGAL</name>
+            <description>Percentile: 0.3746083639831086</description>
+            <Point id="110">
+                <coordinates>-16.9,32.6333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="113">
+            <name>PORT EDWARD, SOUTH AFRICA</name>
+            <description>Percentile: 0.3814194251464378</description>
+            <Point id="112">
+                <coordinates>30.2333333,-31.0666666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="115">
+            <name>GENERAL FRANCISCO J MUJICA INTERNATIONAL, MEXICO</name>
+            <description>Percentile: 0.3882304863097671</description>
+            <Point id="114">
+                <coordinates>-101.0255,19.849944,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="117">
+            <name>LICHINGA, MOZAMBIQUE</name>
+            <description>Percentile: 0.3950415474730963</description>
+            <Point id="116">
+                <coordinates>35.266262,-13.273986,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="119">
+            <name>FALAM, BURMA</name>
+            <description>Percentile: 0.4018526086364256</description>
+            <Point id="118">
+                <coordinates>93.6833333,22.9166666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="121">
+            <name>LA GOMERA AEROPUERTO, SPAIN</name>
+            <description>Percentile: 0.4086636697997548</description>
+            <Point id="120">
+                <coordinates>-17.2166666,28.0333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="123">
+            <name>BOGOR CITEKO, INDONESIA</name>
+            <description>Percentile: 0.415474730963084</description>
+            <Point id="122">
+                <coordinates>106.9333333,-6.7,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="125">
+            <name>PIATA, BRAZIL</name>
+            <description>Percentile: 0.4222857921264133</description>
+            <Point id="124">
+                <coordinates>-41.7666666,-13.15,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="127">
+            <name>BRADSHAW ARMY AIR FIELD, HI US</name>
+            <description>Percentile: 0.4290968532897425</description>
+            <Point id="126">
+                <coordinates>-155.55361,19.76,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="129">
+            <name>RODRIGUEZ BALLON, PERU</name>
+            <description>Percentile: 0.4359079144530718</description>
+            <Point id="128">
+                <coordinates>-71.583083,-16.341072,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="131">
+            <name>HUAMBO, ANGOLA</name>
+            <description>Percentile: 0.442718975616401</description>
+            <Point id="130">
+                <coordinates>15.760547,-12.808878,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="133">
+            <name>CAPITAN CARLOS MARTINEZ DE PINILLOS, PERU</name>
+            <description>Percentile: 0.4495300367797303</description>
+            <Point id="132">
+                <coordinates>-79.108761,-8.081411,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="135">
+            <name>LYDENBURG, SOUTH AFRICA</name>
+            <description>Percentile: 0.4563410979430595</description>
+            <Point id="134">
+                <coordinates>30.4666666,-25.1,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="137">
+            <name>TULANCINGO HGO., MEXICO</name>
+            <description>Percentile: 0.4631521591063888</description>
+            <Point id="136">
+                <coordinates>-98.3666666,20.0833333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="139">
+            <name>KUITO, ANGOLA</name>
+            <description>Percentile: 0.469963220269718</description>
+            <Point id="138">
+                <coordinates>16.947414,-12.404633,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="141">
+            <name>TSITSIKAMMA, SOUTH AFRICA</name>
+            <description>Percentile: 0.4767742814330473</description>
+            <Point id="140">
+                <coordinates>23.9,-34.0333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="143">
+            <name>SANAA INTERNATIONAL, YEMEN</name>
+            <description>Percentile: 0.4835853425963765</description>
+            <Point id="142">
+                <coordinates>44.219739,15.476258,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="145">
+            <name>CHAMONATE, CHILE</name>
+            <description>Percentile: 0.4903964037597058</description>
+            <Point id="144">
+                <coordinates>-70.413611,-27.296111,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="147">
+            <name>CHIMBORAZO, ECUADOR</name>
+            <description>Percentile: 0.497207464923035</description>
+            <Point id="146">
+                <coordinates>-78.656142,-1.653433,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="149">
+            <name>LICENCIADO ADOLFO LOPEZ MATEOS INTERNATIONAL, MEXICO</name>
+            <description>Percentile: 0.5040185260863643</description>
+            <Point id="148">
+                <coordinates>-99.566008,19.337072,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="151">
+            <name>QUEZALTENANGO, GUATEMALA</name>
+            <description>Percentile: 0.5108295872496935</description>
+            <Point id="150">
+                <coordinates>-91.501981,14.86555,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="153">
+            <name>MONTE VERDE, BRAZIL</name>
+            <description>Percentile: 0.5176406484130228</description>
+            <Point id="152">
+                <coordinates>-46.05,-22.8666666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="155">
+            <name>MINDAT, BURMA</name>
+            <description>Percentile: 0.524451709576352</description>
+            <Point id="154">
+                <coordinates>93.95,21.3833333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="157">
+            <name>JINOTEGA, NICARAGUA</name>
+            <description>Percentile: 0.5312627707396813</description>
+            <Point id="156">
+                <coordinates>-85.9833333,13.0833333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="159">
+            <name>TENIENTE ALEJANDRO VELASCO ASTETE INTERNATIONAL, PERU</name>
+            <description>Percentile: 0.5380738319030105</description>
+            <Point id="158">
+                <coordinates>-71.938781,-13.535722,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="161">
+            <name>CORONEL CARLOS CIRIANI SANTA ROSA INTERNATIONAL, PERU</name>
+            <description>Percentile: 0.5448848930663398</description>
+            <Point id="160">
+                <coordinates>-70.275833,-18.053333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="163">
+            <name>ALTO PARAISO DE GOIAS, BRAZIL</name>
+            <description>Percentile: 0.551695954229669</description>
+            <Point id="162">
+                <coordinates>-47.5166666,-14.1333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="165">
+            <name>ALBERTO CARNEVALLI, VENEZUELA</name>
+            <description>Percentile: 0.5585070153929983</description>
+            <Point id="164">
+                <coordinates>-71.161186,8.582294,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="167">
+            <name>DOI ANG KHANG, THAILAND</name>
+            <description>Percentile: 0.5653180765563275</description>
+            <Point id="166">
+                <coordinates>99.0333333,19.9166666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="169">
+            <name>INEZGANE, MOROCCO</name>
+            <description>Percentile: 0.5721291377196568</description>
+            <Point id="168">
+                <coordinates>-9.546311,30.381353,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="171">
+            <name>LINCANG, CHINA</name>
+            <description>Percentile: 0.578940198882986</description>
+            <Point id="170">
+                <coordinates>100.2166666,23.95,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="173">
+            <name>OKHALDHUNGA, NEPAL</name>
+            <description>Percentile: 0.5857512600463153</description>
+            <Point id="172">
+                <coordinates>86.5,27.3,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="175">
+            <name>TENERIFE GUIMAR, SPAIN</name>
+            <description>Percentile: 0.5925623212096445</description>
+            <Point id="174">
+                <coordinates>-16.3822222,28.3183333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="177">
+            <name>RUSAPE, ZIMBABWE</name>
+            <description>Percentile: 0.5993733823729738</description>
+            <Point id="176">
+                <coordinates>32.1333333,-18.5333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="179">
+            <name>STA. CRUZ DE TENERIFE, SPAIN</name>
+            <description>Percentile: 0.606184443536303</description>
+            <Point id="178">
+                <coordinates>-16.25,28.45,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="181">
+            <name>MAJOR BRIGADEIRO DOORGAL BORGES, BRAZIL</name>
+            <description>Percentile: 0.6129955046996323</description>
+            <Point id="180">
+                <coordinates>-43.761056,-21.267167,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="183">
+            <name>KAROI, ZIMBABWE</name>
+            <description>Percentile: 0.6198065658629615</description>
+            <Point id="182">
+                <coordinates>29.6166667,-16.8333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="185">
+            <name>GUARAMIRANGA, BRAZIL</name>
+            <description>Percentile: 0.6266176270262908</description>
+            <Point id="184">
+                <coordinates>-38.9333333,-4.2666666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="187">
+            <name>RAOUL ISLAND AWS, NEW ZEALAND</name>
+            <description>Percentile: 0.63342868818962</description>
+            <Point id="186">
+                <coordinates>-177.9333333,-29.25,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="189">
+            <name>IBIRITE ROLA MOCA, BRAZIL</name>
+            <description>Percentile: 0.6402397493529493</description>
+            <Point id="188">
+                <coordinates>-44.0166666,-20.0333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="191">
+            <name>CORONEL E CARVAJAL, ECUADOR</name>
+            <description>Percentile: 0.6470508105162784</description>
+            <Point id="190">
+                <coordinates>-78.12075,-2.299167,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="193">
+            <name>BARBACENA, BRAZIL</name>
+            <description>Percentile: 0.6538618716796077</description>
+            <Point id="192">
+                <coordinates>-43.7666666,-21.2166666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="195">
+            <name>GRAND CENTRAL, SOUTH AFRICA</name>
+            <description>Percentile: 0.6606729328429369</description>
+            <Point id="194">
+                <coordinates>28.1333333,-25.9833333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="197">
+            <name>GENERAL LEOBARDO C RUIZ INTERNATIONAL, MEXICO</name>
+            <description>Percentile: 0.6674839940062662</description>
+            <Point id="196">
+                <coordinates>-102.68689,22.897112,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="199">
+            <name>BELFAST, SOUTH AFRICA</name>
+            <description>Percentile: 0.6742950551695954</description>
+            <Point id="198">
+                <coordinates>30.0344444,-25.6916667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="201">
+            <name>BUKOBA, TANZANIA</name>
+            <description>Percentile: 0.6811061163329247</description>
+            <Point id="200">
+                <coordinates>31.8166667,-1.3333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="203">
+            <name>IRINGA, TANZANIA</name>
+            <description>Percentile: 0.6879171774962539</description>
+            <Point id="202">
+                <coordinates>35.752114,-7.668633,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="205">
+            <name>MOSSEL BAY LGT H, SOUTH AFRICA</name>
+            <description>Percentile: 0.6947282386595832</description>
+            <Point id="204">
+                <coordinates>22.15,-34.1833333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="207">
+            <name>CHACHOAN, ECUADOR</name>
+            <description>Percentile: 0.7015392998229124</description>
+            <Point id="206">
+                <coordinates>-78.574636,-1.212067,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="209">
+            <name>PISCO INTERNATIONAL, PERU</name>
+            <description>Percentile: 0.7083503609862417</description>
+            <Point id="208">
+                <coordinates>-76.220284,-13.744864,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="211">
+            <name>CHACALLUTA, CHILE</name>
+            <description>Percentile: 0.7151614221495709</description>
+            <Point id="210">
+                <coordinates>-70.33875,-18.348514,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="213">
+            <name>ROBERT GABRIEL MUGABE INTERNATIONAL HARARE, ZIMBABWE</name>
+            <description>Percentile: 0.7219724833129002</description>
+            <Point id="212">
+                <coordinates>31.094329,-17.930219,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="215">
+            <name>ARUSHA, TANZANIA</name>
+            <description>Percentile: 0.7287835444762294</description>
+            <Point id="214">
+                <coordinates>36.633333,-3.367794,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="217">
+            <name>DURANGO INTERNATIONAL, MEXICO</name>
+            <description>Percentile: 0.7355946056395587</description>
+            <Point id="216">
+                <coordinates>-104.528014,24.124194,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="219">
+            <name>JESUS TERAN INTERNATIONAL, MEXICO</name>
+            <description>Percentile: 0.7424056668028879</description>
+            <Point id="218">
+                <coordinates>-102.317869,21.705461,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="221">
+            <name>KAKAMEGA, KENYA</name>
+            <description>Percentile: 0.7492167279662172</description>
+            <Point id="220">
+                <coordinates>34.787297,0.271342,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="223">
+            <name>XOXOCOTLAN INTERNATIONAL, MEXICO</name>
+            <description>Percentile: 0.7560277891295464</description>
+            <Point id="222">
+                <coordinates>-96.7333333,17.0,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="225">
+            <name>GUANAJUATO INTERNATIONAL, MEXICO</name>
+            <description>Percentile: 0.7628388502928757</description>
+            <Point id="224">
+                <coordinates>-101.4833333,20.9833333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="227">
+            <name>NOVA FRIBURGO, BRAZIL</name>
+            <description>Percentile: 0.7696499114562049</description>
+            <Point id="226">
+                <coordinates>-42.6772222,-22.3330556,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="229">
+            <name>LA NUBIA, COLOMBIA</name>
+            <description>Percentile: 0.7764609726195342</description>
+            <Point id="228">
+                <coordinates>-75.464992,5.029839,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="231">
+            <name>QUERETARO INTERCONTINENTAL, MEXICO</name>
+            <description>Percentile: 0.7832720337828634</description>
+            <Point id="230">
+                <coordinates>-100.185658,20.617289,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="233">
+            <name>SIDI IFNI, MOROCCO</name>
+            <description>Percentile: 0.7900830949461927</description>
+            <Point id="232">
+                <coordinates>-10.180267,29.368983,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="235">
+            <name>MARGATE, SOUTH AFRICA</name>
+            <description>Percentile: 0.7968941561095219</description>
+            <Point id="234">
+                <coordinates>30.333,-30.85,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="237">
+            <name>STANDERTON, SOUTH AFRICA</name>
+            <description>Percentile: 0.8037052172728512</description>
+            <Point id="236">
+                <coordinates>29.2333333,-26.9333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="239">
+            <name>JUIZ DE FORA, BRAZIL</name>
+            <description>Percentile: 0.8105162784361803</description>
+            <Point id="238">
+                <coordinates>-43.3666666,-21.7666666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="241">
+            <name>TERESOPOLIS, BRAZIL</name>
+            <description>Percentile: 0.8173273395995097</description>
+            <Point id="240">
+                <coordinates>-42.9872222,-22.4488889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="243">
+            <name>SPRINGS, SOUTH AFRICA</name>
+            <description>Percentile: 0.8241384007628388</description>
+            <Point id="242">
+                <coordinates>28.397508,-26.248411,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="245">
+            <name>CHIPINGE, ZIMBABWE</name>
+            <description>Percentile: 0.8309494619261681</description>
+            <Point id="244">
+                <coordinates>32.6166667,-20.2,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="247">
+            <name>PIET RETIEF, SOUTH AFRICA</name>
+            <description>Percentile: 0.8377605230894973</description>
+            <Point id="246">
+                <coordinates>30.8,-27.0166666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="249">
+            <name>MARGATE, SOUTH AFRICA</name>
+            <description>Percentile: 0.8445715842528266</description>
+            <Point id="248">
+                <coordinates>30.3333333,-30.85,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="251">
+            <name>DON MIGUEL HIDALGO Y COSTILLA INTERNATIONAL, MEXICO</name>
+            <description>Percentile: 0.8513826454161558</description>
+            <Point id="250">
+                <coordinates>-103.311167,20.5218,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="253">
+            <name>JACK NORTHROP FIELD H, CA US</name>
+            <description>Percentile: 0.8581937065794851</description>
+            <Point id="252">
+                <coordinates>-118.333,33.917,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="255">
+            <name>COBAN, GUATEMALA</name>
+            <description>Percentile: 0.8650047677428143</description>
+            <Point id="254">
+                <coordinates>-90.406742,15.468958,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="257">
+            <name>PENNINGTON SOUTH, SOUTH AFRICA</name>
+            <description>Percentile: 0.8718158289061436</description>
+            <Point id="256">
+                <coordinates>30.6666666,-30.4,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="259">
+            <name>CAMPOS DO JORDAO, BRAZIL</name>
+            <description>Percentile: 0.8786268900694729</description>
+            <Point id="258">
+                <coordinates>-45.6,-22.75,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="261">
+            <name>SANTA TEREZA, BRAZIL</name>
+            <description>Percentile: 0.8854379512328021</description>
+            <Point id="260">
+                <coordinates>-40.5833333,-19.9833333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="263">
+            <name>OCEANSIDE MUNICIPAL, CA US</name>
+            <description>Percentile: 0.8922490123961314</description>
+            <Point id="262">
+                <coordinates>-117.35,33.217,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="265">
+            <name>CAROLINA, SOUTH AFRICA</name>
+            <description>Percentile: 0.8990600735594606</description>
+            <Point id="264">
+                <coordinates>30.1166667,-26.0666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="267">
+            <name>RAINBOW BEACH, AUSTRALIA</name>
+            <description>Percentile: 0.90587113472279</description>
+            <Point id="266">
+                <coordinates>153.0833333,-25.9,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="269">
+            <name>JORGE WILSTERMAN, BOLIVIA</name>
+            <description>Percentile: 0.9126821958861192</description>
+            <Point id="268">
+                <coordinates>-66.177114,-17.421058,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="271">
+            <name>TENGCHONG, CHINA</name>
+            <description>Percentile: 0.9194932570494484</description>
+            <Point id="270">
+                <coordinates>98.5,24.9833333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="273">
+            <name>JORGE CHAVEZ INTERNATIONAL, PERU</name>
+            <description>Percentile: 0.9263043182127776</description>
+            <Point id="272">
+                <coordinates>-77.114319,-12.021889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="275">
+            <name>BAOSHAN, CHINA</name>
+            <description>Percentile: 0.9331153793761068</description>
+            <Point id="274">
+                <coordinates>99.1833333,25.1166666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="277">
+            <name>MUTOKO, ZIMBABWE</name>
+            <description>Percentile: 0.939926440539436</description>
+            <Point id="276">
+                <coordinates>32.184502,-17.431917,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="279">
+            <name>JUANA AZURDUY DE PADILLA, BOLIVIA</name>
+            <description>Percentile: 0.9467375017027654</description>
+            <Point id="278">
+                <coordinates>-65.288747,-19.007083,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="281">
+            <name>LOS ALAMITOS ARMY AIR FIELD, CA US</name>
+            <description>Percentile: 0.9535485628660946</description>
+            <Point id="280">
+                <coordinates>-118.05,33.783,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="283">
+            <name>OCEANSIDE MUNICIPAL AIRPORT, CA US</name>
+            <description>Percentile: 0.960359624029424</description>
+            <Point id="282">
+                <coordinates>-117.34962,33.21946,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="285">
+            <name>SAN DIEGO INTERNATIONAL AIRPORT, CA US</name>
+            <description>Percentile: 0.9671706851927532</description>
+            <Point id="284">
+                <coordinates>-117.1831,32.7336,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="287">
+            <name>ENTEBBE INTERNATIONAL, UGANDA</name>
+            <description>Percentile: 0.9739817463560824</description>
+            <Point id="286">
+                <coordinates>32.443503,0.042386,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="289">
+            <name>PLETTENBERG BAY, SOUTH AFRICA</name>
+            <description>Percentile: 0.9807928075194116</description>
+            <Point id="288">
+                <coordinates>23.327778,-34.090279,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="291">
+            <name>WITBANK, SOUTH AFRICA</name>
+            <description>Percentile: 0.9876038686827407</description>
+            <Point id="290">
+                <coordinates>29.192019,-25.832294,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="293">
+            <name>WITBANK, SOUTH AFRICA</name>
+            <description>Percentile: 0.99441492984607</description>
+            <Point id="292">
+                <coordinates>29.1833333,-25.8333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
