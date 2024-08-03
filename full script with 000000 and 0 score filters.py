@@ -4,13 +4,13 @@ import csv
 import math
 
 # Constants for Weatherscore calculation
-WEATHERSCORE_BASE = 75  # Base value for heat index comparison
+WEATHERSCORE_BASE = 80  # Base value for heat index comparison
 WEATHERSCORE_HEAT_INDEX_DIFF = 1  # Score increment per degree difference from base
-WEATHERSCORE_WDSP_THRESHOLD = 10  # Wind speed threshold for additional score
+WEATHERSCORE_WDSP_THRESHOLD = 12  # Wind speed threshold for additional score
 WEATHERSCORE_WDSP_FACTOR = 2  # Score increment per degree above WDSP_THRESHOLD
 WEATHERSCORE_FRSHTT_RULES = {
-    1: 5,   # Effect for the first digit being 1
-    2: 10,  # Effect for the second digit being 1
+    1: 10,   # Effect for the first digit being 1
+    2: 20,  # Effect for the second digit being 1
     3: -25, # Effect for the third digit being 1
     4: 20,  # Effect for the fourth digit being 1
     5: 10,  # Effect for the fifth digit being 1
@@ -202,8 +202,8 @@ def process_directory(directory, output_file):
         save_annual_weatherscore(csv_file, output_file, idx)
 
 # Example usage to process all CSV files in a directory and append results to a single CSV file
-directory = '/Users/Quaker/Desktop/Weather_Station_Project/Raw Data Downloads/2023'
-output_file = 'annual_weatherscore_summary.csv'
+directory = '/home/sam/Documents/Test'
+output_file = '/home/sam/PycharmProjects/best-weather-in-the-world/JanVacaRankings.csv'
 process_directory(directory, output_file)
 print(f"All annual average Weatherscores with station metadata appended to {output_file}")
 

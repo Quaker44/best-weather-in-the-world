@@ -19,7 +19,7 @@ def check_csv_for_null(directory):
     return files_with_null
 
 # Example usage:
-directory = '/Users/Quaker/Desktop/Weather_Station_Project/Raw Data Downloads/2018'
+directory = '/home/sam/Documents/ISD_Data/2018'
 files_with_null = check_csv_for_null(directory)
 
 if files_with_null:

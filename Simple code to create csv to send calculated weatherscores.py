@@ -10,6 +10,6 @@ def create_csv_with_headers(output_file):
     print(f"CSV file '{output_file}' with headers created successfully.")
 
 # Example usage to create a new CSV file with headers
-output_file = 'annual_weatherscore_output(7).csv'
+output_file = 'JanVacaRankings(3).csv'
 create_csv_with_headers(output_file)
 

@@ -28,7 +28,7 @@ def calculate_weighted_averages(input_csv):
         for row in reader:
             station_id = row['Station ID']
             year = int(row['Years'])  # Assuming 'Years' is the column name for year
-            weatherscore = float(row['Annual Average Weatherscore'])
+            weatherscore = float(row['Average Weatherscore'])
             latitude = row['Latitude']
             longitude = row['Longitude']
             name = row['Name']
@@ -84,8 +84,8 @@ def save_weighted_averages_to_csv(weighted_average, station_details, output_csv)
     print(f"Weighted averages and station details saved to {output_csv}")
 
 # Example usage:
-input_csv = '/Users/Quaker/Desktop/Weather_Station_Project/annual_weatherscore_output(7).csv'
-output_csv = '/Users/Quaker/Desktop/Weather_Station_Project/final_rankings.csv'  # Specify the output file name here
+input_csv = '/home/sam/PycharmProjects/best-weather-in-the-world/WinterVaca/JanVacaRankings(3).csv'
+output_csv = '/home/sam/PycharmProjects/best-weather-in-the-world/WinterVaca/JanVacaRankings(4).csv'  # Specify the output file name here
 
 # Calculate weighted averages and station details
 weighted_average, station_details = calculate_weighted_averages(input_csv)

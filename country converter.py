@@ -332,5 +332,5 @@ def process_csv(filename):
         writer.writerows(rows)
 
 # Example usage:
-filename = 'final_ranking.csv'  # Replace with your actual CSV file name
+filename = '/home/sam/PycharmProjects/best-weather-in-the-world/WinterVaca/JanVacaRankings(4).csv'  # Replace with your actual CSV file name
 process_csv(filename)
