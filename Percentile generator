@@ -1,0 +1,16 @@
+import pandas as pd
+from scipy.stats import rankdata
+
+# Load your data into a DataFrame
+df = pd.read_csv('your_data.csv')
+
+# Calculate the rank for each "Annual Average Weatherscore"
+df['Rank'] = rankdata(df['Annual Average Weatherscore'], method='min')
+
+# Calculate the percentile for each rank
+df['Percentile'] = df['Rank'] / len(df['Annual Average Weatherscore']) * 100
+
+# Save the updated DataFrame to a new CSV file
+df.to_csv('updated_data_with_percentiles.csv', index=False)
+
+print("Percentiles have been assigned and saved to 'updated_data_with_percentiles.csv'.")
