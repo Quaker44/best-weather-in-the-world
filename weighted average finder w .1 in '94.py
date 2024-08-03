@@ -83,7 +83,7 @@ def save_weighted_averages_to_csv(weighted_average, station_details, output_csv)
 
     print(f"Weighted averages and station details saved to {output_csv}")
 
-# Example usage:
+# Input and Output locations:
 input_csv = '/home/sam/PycharmProjects/best-weather-in-the-world/WinterVaca/JanVacaRankings(3).csv'
 output_csv = '/home/sam/PycharmProjects/best-weather-in-the-world/WinterVaca/JanVacaRankings(4).csv'  # Specify the output file name here
 
