@@ -2,7 +2,7 @@ import pandas as pd
 import simplekml
 
 # Read the CSV file
-csv_file =r'C:\Users\samuel.purinton\Downloads\final_ranking_temps75_with_percentiles.csv'
+csv_file =r'/home/sam/PycharmProjects/best-weather-in-the-world/percentiles 72'
 data = pd.read_csv(csv_file)
 
 # Filter the data based on the percentile column
