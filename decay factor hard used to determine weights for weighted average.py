@@ -5,7 +5,7 @@ num_years = 30
 
 # Calculate the decay factor to ensure the first year is worth 1% of the last year
 def calculate_decay_factor():
-    target_ratio = 0.1
+    target_ratio = 0.2
     decay_factor = -math.log(target_ratio) / (num_years - 1)
     return decay_factor
 
