@@ -93,7 +93,7 @@ def calculate_heat_index(temperature, humidity):
 def calculate_weatherscore(heat_index, wdsp, frshtt):
     weatherscore = (abs(float(heat_index) - WEATHERSCORE_BASE))) + 
     (abs(float(row['MIN']) - WEATHERSCORE_BASE_NIGHT) * WEATHERSCORE_HEAT_INDEX_DIFF * 0.2) + 
-    (if(float(row['DEWP']) - 60)>0, float(row['DEWP']) - 60, else 0)
+    (if (float(row['DEWP']) - 60)>0, float(row['DEWP']) - 60, else 0)
     if wdsp > WEATHERSCORE_WDSP_THRESHOLD:
         weatherscore += (wdsp - WEATHERSCORE_WDSP_THRESHOLD) * WEATHERSCORE_WDSP_FACTOR
 
