@@ -10,7 +10,7 @@ WEATHERSCORE_WDSP_THRESHOLD = 8  # Wind speed threshold for additional score
 WEATHERSCORE_WDSP_FACTOR = 2  # Score increment per degree above WDSP_THRESHOLD
 WEATHERSCORE_FRSHTT_RULES = {
     1: 3,   # Effect for fog
-    2: 5,  # Effect for rain
+    2: 3,  # Effect for rain
     3: -25, # Effect for snow
     4: 20,  # Effect for hail
     5: 15,  # Effect for thunderstorm
