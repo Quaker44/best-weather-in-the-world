@@ -8,6 +8,8 @@ WEATHERSCORE_BASE = 72  # Base value for heat index comparison
 WEATHERSCORE_HEAT_INDEX_DIFF = 1  # Score increment per degree difference from base
 WEATHERSCORE_WDSP_THRESHOLD = 8  # Wind speed threshold for additional score
 WEATHERSCORE_WDSP_FACTOR = 2  # Score increment per degree above WDSP_THRESHOLD
+MAXMOD = 0.8 # Weight for high temp/heat index
+MINMOD = 0.2 # Weight for low temp. MINMOD and MAXMOD should equal 1
 WEATHERSCORE_FRSHTT_RULES = {
     1: 3,   # Effect for fog
     2: 5,  # Effect for rain
@@ -89,7 +91,7 @@ def calculate_heat_index(temperature, humidity):
     return heat_index
 
 def calculate_weatherscore(heat_index, wdsp, frshtt):
-    weatherscore = abs(heat_index - WEATHERSCORE_BASE) * WEATHERSCORE_HEAT_INDEX_DIFF
+    weatherscore = abs((MAXMOD * float(heat_index) + MINMOD * float(row['MIN'])  - WEATHERSCORE_BASE) * WEATHERSCORE_HEAT_INDEX_DIFF
 
     if wdsp > WEATHERSCORE_WDSP_THRESHOLD:
         weatherscore += (wdsp - WEATHERSCORE_WDSP_THRESHOLD) * WEATHERSCORE_WDSP_FACTOR
