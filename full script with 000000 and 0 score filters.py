@@ -4,7 +4,7 @@ import csv
 import math
 
 # Constants for Weatherscore calculation
-WEATHERSCORE_BASE = 72  # Base value for heat index comparison
+WEATHERSCORE_BASE = 69  # Base value for heat index comparison
 WEATHERSCORE_HEAT_INDEX_DIFF = 1  # Score increment per degree difference from base
 WEATHERSCORE_WDSP_THRESHOLD = 8  # Wind speed threshold for additional score
 WEATHERSCORE_WDSP_FACTOR = 2  # Score increment per degree above WDSP_THRESHOLD
@@ -112,7 +112,7 @@ def calculate_average_weatherscore(csv_file):
         all_frshtt_zero = True
 
         for row in csv_reader:
-            temperature_f = float(row['MAX'])
+            temperature_f = (0.8 * float(row['MAX']) + 0.2 * float(row['MIN']))
             dew_point_f = float(row['DEWP'])
 
             # Check if all FRSHTT values are '000000'
@@ -120,8 +120,8 @@ def calculate_average_weatherscore(csv_file):
                 all_frshtt_zero = False
 
             # Skip rows where temperature or dew point is 9999.9
-            if temperature_f == 9999.9 or dew_point_f == 9999.9:
-                continue
+            if float(row['MAX']) == 9999.9 or dew_point_f == 9999.9 or float(row['MIN']) == 9999.9:
+                  continue
 
             num_rows += 1
 
