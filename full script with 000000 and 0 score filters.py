@@ -93,7 +93,7 @@ def calculate_weatherscore(heat_index, wdsp, frshtt):
     if temp_min_f < 60:
         weatherscore += abs(float(temp_min_f - 60))
     if dew_point_f > 60:
-        weatherscore += float(dew_point_f - 60)
+        weatherscore += float(dew_point_f - 60) * 0.5
     if wdsp > WEATHERSCORE_WDSP_THRESHOLD:
         weatherscore += (wdsp - WEATHERSCORE_WDSP_THRESHOLD) * WEATHERSCORE_WDSP_FACTOR
 
