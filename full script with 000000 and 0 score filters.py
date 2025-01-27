@@ -4,7 +4,7 @@ import csv
 import math
 
 # Constants for Weatherscore calculation
-WEATHERSCORE_BASE = 72  # Base value for heat index comparison
+WEATHERSCORE_BASE = 76  # Base value for heat index comparison
 WEATHERSCORE_HEAT_INDEX_DIFF = 1  # Score increment per degree difference from base
 WEATHERSCORE_WDSP_THRESHOLD = 8  # Wind speed threshold for additional score
 WEATHERSCORE_WDSP_FACTOR = 2  # Score increment per degree above WDSP_THRESHOLD
