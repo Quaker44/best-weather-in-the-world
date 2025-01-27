@@ -89,7 +89,7 @@ def calculate_heat_index(temperature, humidity):
     return heat_index
 
 def calculate_weatherscore(heat_index, wdsp, frshtt):
-    weatherscore = (abs(float(heat_index) - WEATHERSCORE_BASE)))
+    weatherscore = abs(float(heat_index) - WEATHERSCORE_BASE))
     if temp_min_f < 60:
         weatherscore += abs(float(temp_min_f - 60))
     if dew_point_f > 60:
