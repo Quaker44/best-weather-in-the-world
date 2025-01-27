@@ -5,9 +5,7 @@ import math
 
 # Constants for Weatherscore calculation
 WEATHERSCORE_BASE = 72  # Base value for heat index comparison
-WEATHERSCORE_BASE_NIGHT = 62.5 #Base value for MIN temps
 WEATHERSCORE_HEAT_INDEX_DIFF = 1  # Score increment per degree difference from base
-WEATHERSCORE_NIGHT_DIFF = 0.2 # Score increment for night temps
 WEATHERSCORE_WDSP_THRESHOLD = 8  # Wind speed threshold for additional score
 WEATHERSCORE_WDSP_FACTOR = 2  # Score increment per degree above WDSP_THRESHOLD
 WEATHERSCORE_FRSHTT_RULES = {
@@ -92,9 +90,9 @@ def calculate_heat_index(temperature, humidity):
 
 def calculate_weatherscore(heat_index, wdsp, frshtt):
     weatherscore = (abs(float(heat_index) - WEATHERSCORE_BASE)))
-    if float(row['MIN']) < 60:
+    if temp_min_f < 60:
         weatherscore += abs(float(row['MIN']) - 60
-    if float(row['DEWP']) > 60:
+    if dew_point_f > 60:
         weatherscore += float(row['DEWP']) - 60
     if wdsp > WEATHERSCORE_WDSP_THRESHOLD:
         weatherscore += (wdsp - WEATHERSCORE_WDSP_THRESHOLD) * WEATHERSCORE_WDSP_FACTOR
@@ -119,6 +117,7 @@ def calculate_average_weatherscore(csv_file):
         for row in csv_reader:
             temperature_f = float(row['MAX']))
             dew_point_f = float(row['DEWP'])
+            temp_min_f = float(row['MIN'])
 
             # Check if all FRSHTT values are '000000'
             if any(row['FRSHTT'][i] != '0' for i in range(6)):
