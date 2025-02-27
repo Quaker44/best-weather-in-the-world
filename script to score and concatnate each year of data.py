@@ -6,7 +6,7 @@ import statistics
 from collections import defaultdict
 
 # Constants for Weatherscore calculation
-WEATHERSCORE_BASE = 60  # Base value for heat index comparison
+WEATHERSCORE_BASE = 75  # Base value for heat index comparison
 WEATHERSCORE_HEAT_INDEX_DIFF = 1  # Score increment per degree difference from base
 WEATHERSCORE_WDSP_THRESHOLD = 21  # Includes Fresh Breeze gusts 
 WEATHERSCORE_WDSP_FACTOR = 1  # Score increment per degree above WDSP_THRESHOLD
