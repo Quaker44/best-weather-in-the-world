@@ -332,5 +332,33 @@ def process_csv(filename):
         writer.writerows(rows)
 
 # Example usage:
-filename = '/home/sam/PycharmProjects/best-weather-in-the-world/WinterVaca/JanVacaRankings(4).csv'  # Replace with your actual CSV file name
+filename = '/home/sam/Projects/best-weather-in-the-world/rankings76(21).csv'  # Replace with your actual CSV file name
 process_csv(filename)
+
+def adjust_weatherscore(filename):
+    with open(filename, mode='r', newline='') as file:
+        reader = csv.DictReader(file)
+        fieldnames = reader.fieldnames + ['Adjusted Average Weatherscore']
+        
+        rows = []
+        for row in reader:
+            try:
+                avg_score = float(row['Average Weatherscore'])
+                margin_of_error = float(row['Margin of Error'])
+                row['Adjusted Average Weatherscore'] = avg_score + margin_of_error
+                print('Weatherscore adjusted')
+            except ValueError:
+                row['Adjusted Average Weatherscore'] = ''  # Handle missing or invalid values
+                print('Error!')
+            rows.append(row)
+        
+    with open(filename, mode='w', newline='') as file:
+        writer = csv.DictWriter(file, fieldnames=fieldnames)
+        writer.writeheader()
+        writer.writerows(rows)
+
+    print(f"Adjusted weatherscore added and saved to {file}")
+
+# Example usage:
+adjust_weatherscore(filename)
+

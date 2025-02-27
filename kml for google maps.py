@@ -2,11 +2,11 @@ import pandas as pd
 import simplekml
 
 # Read the CSV file
-csv_file =r'/home/sam/PycharmProjects/best-weather-in-the-world/percentiles 72'
+csv_file =r'/home/sam/Projects/best-weather-in-the-world/rankings77(21)(1).csv'
 data = pd.read_csv(csv_file)
 
 # Filter the data based on the percentile column
-filtered_data = data[data['Percentile'] < 1]
+filtered_data = data[data['Percentile'] > 99]
 
 # Create a KML object
 kml = simplekml.Kml()
